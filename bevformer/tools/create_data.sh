@@ -1,0 +1,1 @@
+python tools/create_data.py nuscenes --root-path /workspace/robodrive/nuscenes_data/nuscenes-with-robodrive --out-dir workspace/robodrive/nuscenes_data/nuscenes-with-robodrive --extra-tag robodrive --version robodrive-v1.0 --canbus ./data
